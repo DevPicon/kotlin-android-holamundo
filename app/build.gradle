@@ -32,7 +32,7 @@ dependencies {
     compile "org.jetbrains.anko:anko-common:$anko_version"
 }
 buildscript {
-    ext.kotlin_version = '1.0.1-2'
+    ext.kotlin_version = '1.0.5-2'
     ext.support_version = '23.2.1'
     ext.anko_version = '0.8.3'
     repositories {
